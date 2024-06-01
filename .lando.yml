@@ -1,0 +1,4 @@
+name: mi-proyecto-lando
+recipe: drupal10
+config:
+  webroot: web
