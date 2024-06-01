@@ -1,0 +1,11 @@
+administer test_modul_test_entity:
+  title: 'Administer test entities'
+  restrict access: true
+view test_modul_test_entity:
+  title: 'View test entity'
+edit test_modul_test_entity:
+  title: 'Edit test entity'
+delete test_modul_test_entity:
+  title: 'Delete test entity'
+create test_modul_test_entity:
+  title: 'Create test entity'
